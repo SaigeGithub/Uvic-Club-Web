@@ -1,0 +1,26 @@
+Uvic Clubs apps
+
+
+-Searching by a keyword for a club
+-List of clubs (a-z)
+
+-Search by category 
+
+-Personal page for every club (information, links, pictures, contacts, ability to post upcoming events (FACEBOOK!?), ratings)
+ 
+
+Pages:
+
+1. Main page
+
+2. Personal page for each club
+
+3. Page with the list of the club /index/ from A-Z with the option "search by ranking"
+
+4. Clubs by category
+
+5. UVSS contact page 
+
+6. Help page
+
+7. "About" page (about the app and creators)

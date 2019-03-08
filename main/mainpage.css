@@ -1,0 +1,16 @@
+body {background-image:url('abc.jpg');
+
+background-position:0% 50%;}
+body {color:black;
+      
+}
+h1 {text-indent:50px;
+text-shadow:2px 3px 2px rgba(53,31,255,1);font-weight:bold;color:#000000;letter-spacing:1pt;word-spacing:-1pt;font-size:38px;postion:relative;left:100px;font-family:times new roman,serif;line-height:1;
+}
+
+p {font-weight:bold;color:#000000;letter-spacing:1pt;word-spacing:2pt;font-size:18px;text-align:left;font-family:helvetica, sans-serif;line-height:1;}
+p {position: relative; 
+    left: 50px;
+    margin-right:500px;}
+p.name { position: relative; 
+	left: 180px;}
